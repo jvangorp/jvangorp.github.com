@@ -1,4 +1,4 @@
 jvangorp.github.com
 ===================
 
-My static website.
+Placeholder for future static web site.
